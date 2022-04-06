@@ -1,0 +1,17 @@
+<div class="fotos" *ngIf="configCardImage">
+  <div class="foto" *ngFor="let card of configCardImage">
+    <img [src]="card.download_url" [alt]="card.author" width="250px" />
+    <p>{{ card.author }}</p>
+  </div>
+</div>
+
+<div class="paginacao">
+
+  <mat-paginator
+    [length]="100"
+    [pageSize]="10"
+    aria-label="Selecione a página"
+  >
+  </mat-paginator>
+
+</div>
