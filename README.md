@@ -1,27 +1,53 @@
-# Galeria
+# Galeria Lorem Picsum
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+![GitHub language count](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-## Development server
+<img src="home.jpg" alt="Home do aplicativo">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> Galeria utilizando a API <a href="https://picsum.photos/">🔗 Lorem Picsum</a> e com paginação.
 
-## Code scaffolding
+### Ajustes e melhorias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-## Build
+- [x] Consumo da rota e exibição das imagens
+- [ ] Paginação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Instalando galeria-lorem-picsum
 
-## Running unit tests
+Para instalar o galeria-lorem-picsum, siga estas etapas:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Linux, macOS e Windows:
+```
+yarn install
+```
+```
+ng serve
+```
 
-## Running end-to-end tests
+## 📫 Contribuindo para galeria-lorem-picsum  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Para contribuir com o conversor de moedas, siga estas etapas:
 
-## Further help
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin galeria-lorem-picsum / <local>`
+5. Crie a solicitação de pull.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/71613655?s=400&u=72919061aa963579cfa8ecc8d9cc7933fb24a032&v=4" width="100px;" alt="Foto da Madalena Campos no GitHub"/><br>
+        <sub>
+          <b>Madalena Campos</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+[⬆ Voltar ao topo](#galeria-lorem-picsum)<br>
